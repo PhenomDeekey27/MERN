@@ -1,0 +1,26 @@
+@media screen and (max-width:576px) {
+    #flex_imgs{
+        flex-wrap: wrap;
+    }
+    
+}
+p{
+    color:#080F75;
+
+}
+.about_list li{
+    list-style: none;
+    color:#080F75;
+    font-style: italic;
+}
+.about_list li svg{
+    width: 20px;
+}
+#Register{
+    border: 1px solid #080F75;
+    color: #080F75;
+    font-weight:  600;
+}
+#Register:hover{
+    opacity: 0.7;
+}
